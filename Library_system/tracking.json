@@ -1,0 +1,14 @@
+[
+    {
+        "Barcode": "523898",
+        "Book_Title": "sadik",
+        "Author": "abası",
+        "Publisher": "yanik",
+        "member_ID": 1,
+        "member_name": "efnan",
+        "phone_number": "58",
+        "address": "yılan",
+        "lend_date": "11-01-2025,20:22",
+        "return_date": "25-01-2025"
+    }
+]
